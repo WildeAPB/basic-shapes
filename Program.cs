@@ -46,7 +46,7 @@ namespace basic_shapes
 
     }
 
-    class AreaCalculator
+    class Rectangle
     {
         public static int GetArea(int length, int width)
         {
